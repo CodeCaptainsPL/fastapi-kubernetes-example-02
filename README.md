@@ -51,3 +51,9 @@ This project also includes a suite of tests to verify the functionality of the A
 ```bash
 pytest -vv
 ```
+
+## Skaffold
+
+```bash
+skaffold dev
+```
